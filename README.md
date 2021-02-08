@@ -2,6 +2,7 @@
 
 ## Introduction to HTML and CSS
 ### Date : 08-02-2021
+DEMO: https://codesandbox.io/s/fullstack-developer-training-d49bn
 
 ## Task
 1. Create a responsive webpage similar to google home page (https://www.google.com) using html and css.

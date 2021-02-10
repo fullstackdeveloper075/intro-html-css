@@ -20,4 +20,4 @@ Link: https://forms.gle/Xv4LymD2W1EF3huE8
 
 
 ## Quiz
-Link: 
+Link: https://docs.google.com/forms/d/1SQwQV3nn8KajC9rHGCkYPTmJhF5tNd3j4tUCpRd-dTE/edit?usp=sharing

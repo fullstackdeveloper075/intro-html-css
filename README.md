@@ -13,9 +13,10 @@ Link: https://forms.gle/Xv4LymD2W1EF3huE8
 -------------------------------------------------
 
 ## Introduction to Javscript (JS)
-### Date : 
+### Date : 10-02-21
 
-## Task
+## Task 
+1. Create a Interactive command line Calculator.
 
 
 ## Quiz

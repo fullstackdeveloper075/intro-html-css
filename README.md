@@ -35,8 +35,8 @@ Link: https://docs.google.com/forms/d/1SQwQV3nn8KajC9rHGCkYPTmJhF5tNd3j4tUCpRd-d
 ### Date : 12-02-21
 
 ## Task 
-1.
+1. Create a Interactive Calculator using HTML, CSS and JS. (use DOM API)
 
 
 ## Quiz
-Link: https://forms.gle/mHc5uXt8MZFEe42i7
+Link: https://forms.gle/mV3wwQfHWiqVip1U8

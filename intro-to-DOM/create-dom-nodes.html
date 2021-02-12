@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+    <!-- Example of appendChild()
+
+    <div id="div1" style="background-color:blue; color:aliceblue">
+        <p id="p1">This is a paragraph 1.</p>
+        <p id="p2">This is another paragraph 2.</p>
+    </div>
+
+    <script>
+        var para = document.createElement("p");
+        var node = document.createTextNode("This is new 3.");
+        para.appendChild(node);
+        var element = document.getElementById("div1");
+        element.appendChild(para);
+    </script> -->
+
+    <!-- Example of insertBefore()
+
+    <div id="div1">
+        <p id="p1">This is a paragraph.</p>
+        <p id="p2">This is another paragraph.</p>
+    </div>
+
+    <script>
+        var para = document.createElement("p");
+        var node = document.createTextNode("This is new.");
+        para.appendChild(node);
+
+        var element = document.getElementById("div1");
+        var child = document.getElementById("p1");
+        element.insertBefore(para, child);
+    </script> -->
+
+    Example of remove()
+
+    <div>
+        <p id="p1">This is a paragraph.</p>
+        <p id="p2">This is another paragraph.</p>
+    </div>
+
+    <script>
+        var elmnt = document.getElementById("p1");
+        elmnt.remove();
+    </script>
+
+
+</body>
+
+</html>

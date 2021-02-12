@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h1 onclick="this.innerHTML='Welcome!'">Click on this text1!</h1>
+
+    <h1 onclick="changeText(this)">Click on this text2!</h1>
+
+    <script>
+        function changeText(params) {
+            params.innerHTML = "Hello!";
+        }
+    </script>
+
+</body>
+
+</html>

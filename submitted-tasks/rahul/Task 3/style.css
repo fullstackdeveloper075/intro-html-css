@@ -1,0 +1,33 @@
+table {
+    width: 40%;
+    height: 50%;
+  }
+.title{ 
+    margin-bottom: 10px; 
+    text-align:center; 
+    width: 210px; 
+    color:rgb(90, 219, 198); 
+    border: solid black 3px; 
+    } 
+    #mytitle{
+        width: 165px;
+        margin: 200px auto;
+    }
+
+    input[type="button"] 
+    { 
+    border-radius: 15px;
+    padding: 10px;
+    background-color:rgb(117, 157, 175); 
+    color: black; 
+    border: solid black 3px; 
+    width:100% 
+    } 
+
+    input[type="text"] 
+    { 
+    border-radius: 10px;
+    background-color:white; 
+    border: solid black 3px; 
+    width:100% 
+    }

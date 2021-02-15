@@ -26,6 +26,9 @@ function calculate(n1, n2, ch){
         case 5:
             res = n1 ** n2;
             break;
+        case 6:
+            res = "exit";
+            break;
         default:
             res = "Option not available";
             break;
@@ -41,6 +44,9 @@ function call(){
         rl.question("Enter number 1:", function(n1) {
             rl.question("Enter number 2:", function(n2){
                 res = calculate(Number(n1), Number(n2), Number(ch));
+                if(res == 'exit'){
+                    rl.close();
+                }
                 console.log(`Result : ${res}`)
                 rl.question("Do you want to exit(y/n):", function(res){
                     if(res == 'y'){

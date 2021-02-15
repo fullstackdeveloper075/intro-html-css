@@ -1,0 +1,49 @@
+
+.input{
+  display: inline-block;
+	margin: 2px;
+	width: 250px;
+	height: 40px;
+	font-size: 20px;
+    font-weight: bold;
+    background-color: rgba(245, 242, 237, 0.589);
+	border: none;
+}
+
+.topbutton {
+    cursor: pointer;
+	display: inline-block;
+	margin: 2px;
+	width: 60px;
+	height:42px;
+    outline: none;
+	font-size: 20px;
+	font-weight: bold;
+	border-radius: 10px;
+  
+}
+
+.button {
+    cursor: pointer;
+	display: inline-block;
+	margin: 2px;
+	width: 42px;
+	height: 42px;
+	font-size: 20px;
+	font-weight: bold;
+	border-radius: 10px;
+	outline: none;
+  
+}
+
+.button:active, .topbutton:active{
+    background-color: #a2aaa3;
+    box-shadow: 3px #666;
+  }
+
+h1{
+	color:#f10b45;
+	font-size: 52px;
+    text-align: left;
+
+}

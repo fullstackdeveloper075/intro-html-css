@@ -1,4 +1,4 @@
-var input, myArray, myArray2;
+var input, operandArray, operatorArray;
 
 var reg = /(\d+\.\d+)|\d+/g;
 var reg1 = /[+\-*\/]/g;
@@ -22,11 +22,11 @@ readline
             default:
                 i = 0;
                 input = ip;
-                myArray = input.match(reg);
-                myArray2 = input.match(reg1);
+                operandArray = input.match(reg);
+                operatorArray = input.match(reg1);
 
-                var finAns = myArray.reduce(calculate);
-                console.log(finAns);
+                var result = operandArray.reduce(calculate);
+                console.log(result);
         }
         readline.prompt();
     })
@@ -39,7 +39,7 @@ function calculate(accumulator, curr, i) {
     if (i === 0) return curr;
 
     var op, res;
-    op = myArray2[i - 1];
+    op = operatorArray[i - 1];
 
     if (op === "+") {
         res = parseFloat(accumulator, 10) + parseFloat(curr, 10);

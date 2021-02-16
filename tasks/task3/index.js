@@ -69,6 +69,8 @@ function buttonClicked(event) {
         totalResult = funcRefs[functions.indexOf(functionValue)](totalResult, parseInt(currentNumber)); 
         equation = '';
         resultElement.innerText += ' | ' + totalResult;
+        currentNumber = '';
+        totalResult = 0;
         return;
     }
 

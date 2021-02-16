@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>GUI Calculator</h1>
+      <input type="text" id="query" name="Query" class="queryBox" value="0" />
+      <div class="buttonGroup">
+        <button class="button" onclick="allClear()">AC</button>
+        <button class="button" onclick="clearEntry()">CE</button>
+        <button class="button action">%</button>
+        <button class="button action">/</button>
+        <button class="button action">7</button>
+        <button class="button action">8</button>
+        <button class="button action">9</button>
+        <button class="button action">*</button>
+        <button class="button action">4</button>
+        <button class="button action">5</button>
+        <button class="button action">6</button>
+        <button class="button action">-</button>
+        <button class="button action">1</button>
+        <button class="button action">2</button>
+        <button class="button action">3</button>
+        <button class="button action">+</button>
+        <button class="button action">.</button>
+        <button class="button action">0</button>
+        <button class="button action">00</button>
+        <button class="button" onclick="calcRes()">=</button>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

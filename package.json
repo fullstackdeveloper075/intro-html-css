@@ -1,0 +1,24 @@
+{
+  "name": "fullstack-developer-training",
+  "version": "1.0.0",
+  "description": "## Introduction to HTML and CSS ### Date : 08-02-2021 DEMO: https://codesandbox.io/s/fullstack-developer-training-d49bn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstackdeveloper075/FullStack-Developer-Training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullstackdeveloper075/FullStack-Developer-Training/issues"
+  },
+  "homepage": "https://github.com/fullstackdeveloper075/FullStack-Developer-Training#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "readline-sync": "^1.4.10"
+  }
+}

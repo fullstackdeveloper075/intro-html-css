@@ -1,0 +1,65 @@
+#mainHead{
+    margin: 0 auto;
+    font-size: 400%;
+    font-style: bold;
+    text-align: center;
+}
+#topbar{
+    background: rgba(200, 200, 200, 0.2);
+    box-shadow: 1px 1px 1px 1px rgba(100, 100, 100, 0.3);
+    height:25px; padding:5px;
+}
+#tool{
+    height: 20px;
+    float: right;
+    margin: 2px 4px;
+    border: 2px solid rgba(100, 100, 100, 0.3);
+}
+#topbarinside{
+    float: right;
+    margin: 2px 4px;
+    border: 1px solid rgba(255, 100, 0, 0.3);
+    border-radius: 10%;
+    background: rgba(255, 100, 100 , 0.1);
+}
+#inputContainer{
+    max-width: 600px;
+    min-width: 600px;
+    margin: 0 auto;
+    min-width: 500px;
+    border: 2px solid black;
+    border-radius: 44px 44px 44px 44px;
+}
+input{
+    width:400px;
+    height: 40px;
+    font-size:20px;
+    text-align: center;
+    margin:0;
+    border:0;
+}
+#Search{
+    margin-left: 0;
+    float:right;
+    padding:9px;
+    border-left: 1px solid rgba(0, 0, 0, 1);
+}
+#mike{
+    margin-right:0;
+    float:left;
+    padding:9px;
+    border-right: 1px solid rgba(0, 0, 0, 1);
+}
+img{
+    height:20px;
+}
+
+#bottom{
+    float:inline-start;
+    margin:0 auto;
+    padding:50px;
+    width: 24%;
+}
+button{
+    margin: 10px 2px;
+}

@@ -22,19 +22,18 @@ const operation = (op1, op2, operand) => {
 
 // function for Calculation
 function startCalculator() {
-        let start=1, firstNumber, secondNumber, result;
-    do{
+    let start=1, firstNumber, secondNumber, result;
+    do {
         console.log("Please select options: ")
         console.log(`0: close Calculator\n Addition: +\n Subtraction: -\n Multiply: *\n Divide: /\n Modulous: %\n Exponent: **`)
         start = prompt('Option: ');
-        if(start!=0){
+        if (start!=0) {
             firstNumber = Number(prompt("First Number: "));
             secondNumber = Number(prompt("Second Number: "))
             result = operation(firstNumber, secondNumber, start);
             console.log(`\n\n ${firstNumber} ${start} ${secondNumber} = ${result}\n\n`);
         }
-    }
-    while(start!=0);
+    } while(start!=0);
 }
 
 startCalculator();

@@ -47,10 +47,14 @@ Link: https://forms.gle/mV3wwQfHWiqVip1U8
 ## Introduction to ReactJS
 ### Date : 31-03-21
 
-## Task 4
+## Task 1 (ReactJS)
 1. Create a Hello World ReactJS Application
 
 
+## Introduction to ReactJS
+### Date : 02-04-21
 
+## Task 2 (ReactJS)
+1. Create SignUp Form with Validation having fields as Full Name, Email, Password and Sign Up Button.
 
 

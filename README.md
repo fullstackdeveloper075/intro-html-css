@@ -54,10 +54,23 @@ Link: https://forms.gle/mV3wwQfHWiqVip1U8
 Link : https://forms.gle/Jp4FW95KDmRSnJVb7
 
 
-## Introduction to ReactJS
+## Introduction to ReactJS Forms,Yup,Formik
 ### Date : 02-04-21
 
 ## Task 2 (ReactJS)
 1. Create SignUp Form with Validation having fields as Full Name, Email, Password and Sign Up Button.
+
+## Quiz
+Link : https://forms.gle/C3Uv3EYqS9jYoTUV6
+
+
+## Introduction to ReactJS Hooks and Component Life Cycle Methods
+### Date : 05-04-21
+
+## Task 3 (ReactJS)
+1. Create Sibling components and share data between them.
+
+## Quiz
+Link : 
 
 

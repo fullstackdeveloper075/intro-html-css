@@ -68,7 +68,8 @@ Link : https://forms.gle/C3Uv3EYqS9jYoTUV6
 ### Date : 05-04-21
 
 ## Task 3 (ReactJS)
-1. Create Sibling components and share data between them.
+1. Create Sibling components and share data between them. Steps todo - 1) Create a context with default value, 2) Create two reactjs components example child1 and child2, 3) Read and show the value from context in both components.
+
 
 ## Quiz
 Link : 

@@ -50,6 +50,9 @@ Link: https://forms.gle/mV3wwQfHWiqVip1U8
 ## Task 1 (ReactJS)
 1. Create a Hello World ReactJS Application
 
+## Quiz
+Link : https://forms.gle/Jp4FW95KDmRSnJVb7
+
 
 ## Introduction to ReactJS
 ### Date : 02-04-21

@@ -74,11 +74,31 @@ Link : https://forms.gle/C3Uv3EYqS9jYoTUV6
 ## Quiz
 Link : https://forms.gle/7m31FGWEUSjPXqpS7
 
-## Introduction to ReactJS Advanced Concepts - Hooks
+## Introduction to ReactJS Advanced Concepts - React Without ES6,React Without JSX,Reconciliation,Refs and the DOM,Render Props,Static Type Checking,Strict Mode,Typechecking With PropTypes,Uncontrolled Components,Web Components
 ### Date : 07-04-21
 
 ## Task 4 (ReactJS)
+1. Build a ReactJS component Without ES6
+
+
+## Quiz
+Link : 
+
+## Introduction to ReactJS Advanced Concepts - Hooks
+### Date : 09-04-21
+
+## Task 5 (ReactJS)
 1. Build a ReactJS component using Hooks
+
+
+## Quiz
+Link : 
+
+## Introduction to ReactJS Testing, build and Deployment
+### Date : 12-04-21
+
+## Task 6 (ReactJS)
+1. Build a ReactJS Web App and Deploy
 
 
 ## Quiz

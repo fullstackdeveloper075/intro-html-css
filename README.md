@@ -104,3 +104,6 @@ Link :
 ## Quiz
 Link : 
 
+### ReactJS Frequently Asked Questions(FAQ)
+Link : https://github.com/fullstackdeveloper075/FullStack-Developer-Training/blob/master/reactjs-faq.md
+

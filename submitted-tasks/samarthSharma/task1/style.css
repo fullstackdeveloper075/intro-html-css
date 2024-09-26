@@ -1,0 +1,123 @@
+.logo {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+}
+
+.wrapper {
+  margin: 0 auto;
+  text-align: center;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+}
+
+.searchBar {
+  width: 550px;
+  border: 1px solid #dfe1e5;
+  background: #fff;
+  box-shadow: none;
+  border-radius: 24px;
+  height: 44px;
+  margin: 0 auto;
+  margin-top: 1rem;
+}
+
+.buttons {
+  width: 310px;
+  padding-top: 30px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+a {
+  text-decoration: none;
+}
+
+.google,
+.lucky {
+  font-size: 16px;
+  display: block;
+  background-color: #f9f9f9;
+  padding: 12px;
+  color: #666666;
+}
+
+.shortcuts li {
+  list-style-type: none;
+  display: inline;
+  float: right;
+  padding: 5px;
+  font-size: 12px;
+  margin: 5px;
+  text-align: center;
+}
+
+.shortcuts a {
+  color: #4d4d4d;
+}
+
+.shortcuts a:hover {
+  text-decoration: underline;
+}
+
+.nav {
+  width: 100%;
+  height: 50px;
+  margin: 0 auto;
+}
+
+.settings li {
+  list-style-type: none;
+  display: inline;
+  padding: 10px;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.settings a {
+  color: #4d4d4d;
+}
+
+.settings a:hover {
+  text-decoration: underline;
+}
+
+.advertising {
+  float: left;
+}
+
+.privacy {
+  float: right;
+}
+
+.bottom {
+  border-top: solid;
+  border-width: 0.1px;
+  border-color: #e6e6e6;
+  width: 100%;
+  background-color: #f2f2f2;
+}
+
+.bottom .settings {
+  padding: 0;
+  margin: 1rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .searchBar {
+    width: 75%;
+  }
+}
